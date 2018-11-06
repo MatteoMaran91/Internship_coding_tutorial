@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Hi Anna. These are few lines of code that can give you an idea of useful functions etc to start with Python 2.
+Hi. These are few lines of code that can give you an idea of useful functions etc to start with Python 2.
 Many problems can be solved with multiple coding solutions. I think that the most important aspect of coding is
 really thinking about the steps you need, how you can extract info, how to store it and manipulate it for easy access.
 
