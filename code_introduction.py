@@ -236,7 +236,7 @@ with open(out_filename, 'a') as my_output:          # my_output is a sort of var
 # Now let's create a tabulated file 
 out_filename = fold_with_file + 'my_tab_file.txt';
 tab_string_to_print = 'name' + '\t' + 'surname' + '\t' + 'fav_col' + '\n';
-tab_string_to_print = tab_string_to_print + 'anna' + '\t' + 'bliss'+ '\t' + 'red?' + '\n'
+tab_string_to_print = tab_string_to_print + 'name' + '\t' + 'surname' + '\t' + 'red?' + '\n'
 with open(out_filename, 'a') as my_output:
     my_output.write(tab_string_to_print)
 
