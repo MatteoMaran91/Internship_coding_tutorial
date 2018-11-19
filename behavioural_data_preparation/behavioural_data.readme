@@ -1,3 +1,0 @@
-This folder contains scripts and info for:
-1. Using python to extract behavioural data from .txt logfiles and prepara a data sheet to be read in R;
-2. Implement an ANOVA in R to analyze response times.
