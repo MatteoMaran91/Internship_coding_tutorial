@@ -1,14 +1,11 @@
-Pancaro TMS
+P
 Date:#######
 Subject: 1
 Session: 1
 Block: 1
 
 ###
-Displayed instructions:
-Betätigen Sie den Knopf zwei(2) mal wenn der Ausdruck richtig,
-und drei(3) mal wenn der Ausdruck falsch ist.	Benutzen Sie den Mittel- und Zeigefinger der rechten Hand,
-um die Knöpfe zu betätigen###
+###
 
 
 Subject	Trial_nr	Item_Name	Trial_ID	ExpectedResponse	GivenResponse	ReactionTime	DP	SoundAbsEndtime	SoundDuration	CueLatency
