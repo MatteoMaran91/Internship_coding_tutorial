@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Hi Anna. These are few lines of code that can give you an idea of useful functions etc to start with Python 2.
+Hi intern. These are few lines of code that can give you an idea of useful functions etc to start with Python 2.
 Many problems can be solved with multiple coding solutions. I think that the most important aspect of coding is
 really thinking about the steps you need, how you can extract info, how to store it and manipulate it for easy access.
 
@@ -236,7 +236,7 @@ with open(out_filename, 'a') as my_output:          # my_output is a sort of var
 # Now let's create a tabulated file 
 out_filename = fold_with_file + 'my_tab_file.txt';
 tab_string_to_print = 'name' + '\t' + 'surname' + '\t' + 'fav_col' + '\n';
-tab_string_to_print = tab_string_to_print + 'anna' + '\t' + 'bliss'+ '\t' + 'red?' + '\n'
+tab_string_to_print = tab_string_to_print + 'name' + '\t' + 'surname'+ '\t' + 'red?' + '\n'
 with open(out_filename, 'a') as my_output:
     my_output.write(tab_string_to_print)
 
